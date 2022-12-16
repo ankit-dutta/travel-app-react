@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/travel-app-react/static/css/main.dc940055.css",
+    "main.js": "/travel-app-react/static/js/main.913b0f98.js",
+    "static/media/Recent3.jpg": "/travel-app-react/static/media/Recent3.1a1e6e5e4a7384a719ac.jpg",
+    "static/media/About1.jpg": "/travel-app-react/static/media/About1.a30d4656755d2893d4f5.jpg",
+    "static/media/Recent2.jpg": "/travel-app-react/static/media/Recent2.0d8a947e555b0f42738f.jpg",
+    "static/media/Destination4.jpg": "/travel-app-react/static/media/Destination4.7c34901bdb9e59ae200a.jpg",
+    "static/media/services1.jpg": "/travel-app-react/static/media/services1.e29fc8fd44285cfa1755.jpg",
+    "static/media/contact1.jpg": "/travel-app-react/static/media/contact1.b3580cd394b68f52d9b8.jpg",
+    "static/media/Destination3.jpg": "/travel-app-react/static/media/Destination3.45d6da0a7794740fc91c.jpg",
+    "static/media/Destination1.jpg": "/travel-app-react/static/media/Destination1.f4fc5625d613ba9a35dc.jpg",
+    "static/media/Recent1.jpg": "/travel-app-react/static/media/Recent1.c5ee0a64e31a1f949111.jpg",
+    "static/media/Destination2.jpg": "/travel-app-react/static/media/Destination2.34f549c79c664b8a5f66.jpg",
+    "index.html": "/travel-app-react/index.html",
+    "main.dc940055.css.map": "/travel-app-react/static/css/main.dc940055.css.map",
+    "main.913b0f98.js.map": "/travel-app-react/static/js/main.913b0f98.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dc940055.css",
+    "static/js/main.913b0f98.js"
+  ]
+}
