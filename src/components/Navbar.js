@@ -24,7 +24,7 @@ const Navbar = () =>{
 
             <ul className={ham ? 'nav-menu:active' : 'nav-menu'}>
                 <li>
-                    <Link to= '/' className='nav-links'><i className="fa-solid fa-house-user"></i>Home</Link>
+                    <Link to= '/travel-app-react/' className='nav-links'><i className="fa-solid fa-house-user"></i>Home</Link>
                 </li>
 
                 <li>
