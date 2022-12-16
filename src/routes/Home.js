@@ -18,7 +18,7 @@ const Home = () =>{
      title = "Your Journey Your Story"
      text = "choose Your Favourite Destination"
      btntxt = "Travel Plan"
-     url = '/travel-app-react'
+     url = '/travel-app-react/'
      btnclass = "show"
      />
 

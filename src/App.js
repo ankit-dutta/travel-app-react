@@ -14,7 +14,7 @@ function App() {
       
 
     <Routes>
-        <Route path='/travel-app-react' element = {<Home />} />
+        <Route path='/travel-app-react/' element = {<Home />} />
 
         <Route path='/about' element = {<About />} />
         <Route path='/service' element = {<Service />} />
